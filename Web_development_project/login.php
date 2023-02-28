@@ -179,7 +179,7 @@
     &nbsp;
     &nbsp;
     <center>
-  <a class="btn_submit" href="project1.php"> Home </a>
+  <a class="btn_submit" href="Homepage.php"> Home </a>
     </center>
   <div>
         <div class="wave"></div>
