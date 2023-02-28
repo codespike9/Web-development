@@ -124,7 +124,7 @@ $facilityresult = mysqli_query($conn,$facilitysql);
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="project1.php"
+              <a class="nav-link" href="Homepage.php"
                 ><span class="input-group-text" id="home"
                   ><span class="material-symbols-outlined">home</span></span
                 ></a
